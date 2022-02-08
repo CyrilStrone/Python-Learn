@@ -1,3 +1,5 @@
+
+
 sq = []
 for i in range(10):
     sq.append(i**2)
